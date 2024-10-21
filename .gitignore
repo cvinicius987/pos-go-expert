@@ -28,4 +28,4 @@ go.work.sum
 aws.xml
 modules.xml
 vcs.xml
-pos-go-export.iml
+.idea/pos-go-export.iml
